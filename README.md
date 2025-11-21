@@ -2,7 +2,7 @@
 
 
 ## PART 1: Python
-**1. Describe what is meant by an array in programming.**
+**1. Describe what is meant by an array in programming.**  
 **Ans**: An array is a data structure that stores a collection of elements of the same type in a contiguous block of memory, accessed using an index or                 position number.
 
 2. What is meant by "zero-based indexing"? Use an example.
