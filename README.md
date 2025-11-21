@@ -36,12 +36,12 @@ _**Instructions: Answer questions 7 to 10 based on the C++ code provided.**_
 **7. What would be the result of cout << scores[1]; be?**  
 **Ans**: 70  
 
-8. Which array in the code stores text (string) values?  
+**8. Which array in the code stores text (string) values?**  
 **Ans**: studentNames  
 
-10. How many elements can the newScores array store? What happens to the unused elements in it?  
+**10. How many elements can the newScores array store? What happens to the unused elements in it?**   
 **Ans**: The newScores array can store 7 elements. The unused elements (positions 3-6) are automatically initialized to 0.  
 
-12. What is the index of the first element in every array in C++?  
+**12. What is the index of the first element in every array in C++?**   
 **Ans**: 0  
 
