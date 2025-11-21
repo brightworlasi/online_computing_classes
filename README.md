@@ -30,7 +30,7 @@
    **Ans**: An IndexError would occur with the message "list index out of range". This happens because the array has only 5 elements (indices 0-4), but         we're trying to access index 5, which doesn't exist.
 
 ## PART 2: C++
-**Instructions: Answer questions 7 to 10 based on the C++ code provided.**
+_**Instructions: Answer questions 7 to 10 based on the C++ code provided.**_
 
 
 **7. What would be the result of cout << scores[1]; be?**  
