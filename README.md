@@ -31,7 +31,7 @@
 
 ## PART 2: C++
 _**Instructions: Answer questions 7 to 10 based on the C++ code provided.**_  
-![C++ Code](https://github.com/brightworlasi/online_computing_classes_y2/blob/main/cplusplus.png?raw=true)
+![C++ Code](https://github.com/brightworlasi/online_computing_classes_y2/blob/main/cplusplusnew.png)
 
 **7. What would be the result of cout << scores[1]; be?**  
 **Ans**: 70  
