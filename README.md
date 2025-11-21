@@ -16,4 +16,15 @@
 
   **Ans**: The output will be:
      The second name is: Kojo
-     Kwame Reason: The code first prints the element at index 1 ("Kojo"). It then updates index 1 to "Kwame" and prints the new value.
+     Kwame  
+     **Reason**: The code first prints the element at index 1 ("Kojo"). It then updates index 1 to "Kwame" and prints the new value.
+
+4. Write a Python code to create an array called students containing five student names.
+   **Ans**: students = ["Ama", "Esi", "Yawa", "Aku", "Afi"] **OR** students = ["Alice", "Bob", "Charlie", "David", "Eve"]
+
+5. Given the Python array(list) scores = [78, 82, 65, 90, 73], write a Python code to print the total number of scores in the array.
+   **Ans**: print(len(scores))
+   The built-in **len()** function calculates and returns the number of elements in an object. The object must be a sequence or collection type that has a      defined length, such as a list, string, tuple, or dictionary.
+
+6. What would happen if you tried to execute print(scores[5]) on the scores array [54, 32, 63, 74, 56]? Explain why this error occurs.  
+   **Ans**: An IndexError would occur with the message "list index out of range". This happens because the array has only 5 elements (indices 0-4), but         we're trying to access index 5, which doesn't exist.
