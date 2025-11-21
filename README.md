@@ -29,7 +29,7 @@
 **6. What would happen if you tried to execute print(scores[5]) on the scores array [54, 32, 63, 74, 56]? Explain why this error occurs.**    
    **Ans**: An IndexError would occur with the message "list index out of range". This happens because the array has only 5 elements (indices 0-4), but         we're trying to access index 5, which doesn't exist.
 
-## PART 2
+## PART 2: C++
 **Instructions: Answer questions 7 to 10 based on the C++ code provided.**
 
 
