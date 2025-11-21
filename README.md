@@ -28,3 +28,20 @@
 
 **6. What would happen if you tried to execute print(scores[5]) on the scores array [54, 32, 63, 74, 56]? Explain why this error occurs.**    
    **Ans**: An IndexError would occur with the message "list index out of range". This happens because the array has only 5 elements (indices 0-4), but         we're trying to access index 5, which doesn't exist.
+
+## PART 2
+**Instructions: Answer questions 7 to 10 based on the C++ code provided.**
+
+
+**7. What would be the result of cout << scores[1]; be?**  
+**Ans**: 70  
+
+8. Which array in the code stores text (string) values?  
+**Ans**: studentNames  
+
+10. How many elements can the newScores array store? What happens to the unused elements in it?  
+**Ans**: The newScores array can store 7 elements. The unused elements (positions 3-6) are automatically initialized to 0.  
+
+12. What is the index of the first element in every array in C++?  
+**Ans**: 0  
+
