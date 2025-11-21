@@ -14,8 +14,8 @@
     names[1] = "Kwame"
     print(names[1])
 
-  **Ans**: The output will be:
-     The second name is: Kojo
+  **Ans**: The output will be:  
+     The second name is: Kojo  
      Kwame  
      **Reason**: The code first prints the element at index 1 ("Kojo"). It then updates index 1 to "Kwame" and prints the new value.
 
