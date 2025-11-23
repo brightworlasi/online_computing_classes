@@ -24,7 +24,7 @@
 
 **5. Given the Python array(list) scores = [78, 82, 65, 90, 73], write a Python code to print the total number of scores in the array.**  
    **Ans**: print(len(scores))  
-   The built-in **len()** function calculates and returns the number of elements in an object. The object must be a sequence or collection type that has a      defined length, such as a list, string, tuple, or dictionary.
+    **Reason**: The built-in **len()** function calculates and returns the number of elements in an object. The object must be a sequence or collection type         that has a defined length, such as a list, string, tuple, or dictionary.
 
 **6. What would happen if you tried to execute print(scores[5]) on the scores array [54, 32, 63, 74, 56]? Explain why this error occurs.**    
    **Ans**: An IndexError would occur with the message "list index out of range". This happens because the array has only 5 elements (indices 0-4), but         we're trying to access index 5, which doesn't exist.
