@@ -23,7 +23,7 @@
    **Ans**: students = ["Ama", "Esi", "Yawa", "Aku", "Afi"] **OR** students = ["Alice", "Bob", "Charlie", "David", "Eve"]
 
 **5. Given the Python array(list) scores = [78, 82, 65, 90, 73], write a Python code to print the total number of scores in the array.**  
-   **Ans**: print(len(scores))
+   **Ans**: print(len(scores))  
    The built-in **len()** function calculates and returns the number of elements in an object. The object must be a sequence or collection type that has a      defined length, such as a list, string, tuple, or dictionary.
 
 **6. What would happen if you tried to execute print(scores[5]) on the scores array [54, 32, 63, 74, 56]? Explain why this error occurs.**    
